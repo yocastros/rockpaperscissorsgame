@@ -1,2 +1,2 @@
 # rockpaperscissorsgame
-I create a basic rock, paper, scissors game
+I create a basic rock, paper, scissors game in Python
