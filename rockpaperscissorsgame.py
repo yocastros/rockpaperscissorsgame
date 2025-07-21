@@ -1,5 +1,7 @@
 import random
 
+# creo las variables para llevar la cuenta de las victorias del jugador y de la computadora
+
 player_wins = 0
 computer_wins = 0
 
