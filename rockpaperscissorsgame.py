@@ -9,7 +9,7 @@ print("Let's play rock, paper, or scissors")
 
 while player_wins < 2 and computer_wins < 2: # el juego termina cuando uno de los dos gana 2 veces
 
-  player_choice = input("Please select rock, paper or scissors: ").lower()
+  player_choice = input("Please select rock, paper or scissors: ").lower() #
 
   choices = ["rock", "paper", "scissors"]
 
